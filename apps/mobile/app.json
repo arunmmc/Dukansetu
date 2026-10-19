@@ -1,0 +1,1 @@
+{"expo":{"name":"DukaanSetu","slug":"dukaan-setu","scheme":"dukaansetu","version":"0.1.0","orientation":"portrait","userInterfaceStyle":"light","plugins":[["expo-sqlite",{"useSQLCipher":true}],"expo-secure-store"],"android":{"package":"in.dukaansetu.app"}}}

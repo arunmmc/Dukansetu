@@ -1,0 +1,11 @@
+{
+  "name": "dukaan-setu",
+  "private": true,
+  "workspaces": ["apps/shared", "apps/web", "apps/mobile", "services/api"],
+  "scripts": {
+    "dev:web": "npm run dev -w @dukaansetu/web",
+    "dev:mobile": "npm run start -w @dukaansetu/mobile",
+    "build:web": "npm run build -w @dukaansetu/web",
+    "dev:api": "npm run dev -w dukaan-setu-api"
+  }
+}
